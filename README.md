@@ -10,4 +10,4 @@ Java project includes the sample demo of usage of Listen/Notify signals.
 
 
 
-
+https://github.com/bvamc/postgres_Listen_Notify_Feature
